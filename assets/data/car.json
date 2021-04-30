@@ -1,0 +1,53 @@
+[
+  {
+    "car_name": "Mercedes",
+    "country": "Germany",
+    "year": "1880",
+    "model": [
+      {
+        "model_name": "A series",
+        "price": 15000,
+        "gasoline": false
+      },
+      {
+        "model_name": "C series",
+        "price": 25000,
+        "gasoline": false
+      }
+    ]
+  },
+  {
+    "car_name": "Honda",
+    "country": "Japan",
+    "year": "1920",
+    "model": [
+      {
+        "model_name": "Civic series",
+        "price": 12000,
+        "gasoline": false
+      },
+      {
+        "model_name": "Jazz series",
+        "price": 10000,
+        "gasoline": false
+      }
+    ]
+  },
+  {
+    "car_name": "Renault",
+    "country": "France",
+    "year": "1910",
+    "model": [
+      {
+        "model_name": "Fluence series",
+        "price": 12000,
+        "gasoline": false
+      },
+      {
+        "model_name": "Capture series",
+        "price": 13000,
+        "gasoline": false
+      }
+    ]
+  }
+]
